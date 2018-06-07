@@ -15,3 +15,9 @@ Project 1 & 2 of Udacity Android Developer Nanodegree.
 
 ![screen](../master/pop_movies1.jpg)
 ![screen](../master/pop_movies2.jpg)
+
+## Build
+
+The app retrieves movie data from MovieDB. To build the project, please add the following API key to the environment variable on your build machine.
+
+* MOVIEDB_API_KEY
