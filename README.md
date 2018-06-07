@@ -1,6 +1,7 @@
 PopularMovies
 =============
-A simple Android app that helps users discover most popular and most rated movies. Project 1 & 2 of Udacity Android Developer Nanodegree.
+A simple Android app that helps users discover most popular and most rated movies. You can flip through movie posters, check movie details, watch movie trailers, read other people's reviews and create a list of your favourite movies.
+Project 1 & 2 of Udacity Android Developer Nanodegree.
 
 ## Features
 
