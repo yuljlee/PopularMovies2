@@ -8,4 +8,5 @@
     </string>
     <string name="title_activity_detail">MovieDetail</string>
     <string name="content_authority">com.nanodegree.android.popularmovies</string>
+    <string name="movie">Movie Poster</string>
 </resources>

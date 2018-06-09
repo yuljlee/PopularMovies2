@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity implements
     private static final String SORT_RATED = "rated";
     private static final String SORT_FAVORITE = "favorite";
 
-    private static final int COL_NUM = 3;
+    private static final int COL_NUM = 2;
 
     private static final int MOVIE_LOADER_ID = 77;
     private static final int FAVORITE_MOVIE_LOADER_ID = 78;
