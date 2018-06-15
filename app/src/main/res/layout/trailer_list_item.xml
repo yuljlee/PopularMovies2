@@ -10,6 +10,7 @@
         android:layout_width="45dp"
         android:layout_height="45dp"
         android:scaleType="centerCrop"
+        android:contentDescription="@string/movie"
         app:srcCompat="@android:drawable/ic_media_play" />
     <TextView
         android:id="@+id/tv_trailer_title"
